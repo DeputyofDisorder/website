@@ -1,0 +1,14 @@
+img {
+  width: 250px;
+  height: 200px;
+}
+
+body>header>h1>a>span>img {
+  width: 35.99px;
+  height: 35.99px;
+}
+
+footer>ul>li>a>img {
+  width: 44.79px;
+  height: 37.22px;
+}
