@@ -19,3 +19,18 @@ article .main address {
 article .main address p {
   margin-bottom: 0.1em;
 }
+
+img {
+  width: 500px;
+  height: 150px;
+}
+
+body>header>h1>a>span>img {
+  width: 35.99px;
+  height: 35.99px;
+}
+
+footer>ul>li>a>img {
+  width: 44.79px;
+  height: 37.22px;
+}
